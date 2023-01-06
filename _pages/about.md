@@ -20,17 +20,15 @@ Education
 * MPhil in ECE, The Hong Kong University of Science and Technology, 2020-2022
 * B.S. in Automation, Northeastern University, 2016-2020
 
-
-
 Honors and Awards
 ======
 * [Hong Kong PhD Fellowship]((https://cerg1.ugc.edu.hk/hkpfs/index.html)) (HKPFS), 2022
 * [HKUST redbird scholarship](https://news.hkust.edu.hk/news/hkust-redbird-phd-scholarship-program), 2022
 * Research Travel Grant (RTG), 2022
 * 3rd prize in the IEEE-EMB Hong Kong & Macau Joint Chapter Student Project Competition, 2021
-* Postgraduate Scholarship, 2020
+* Postgraduate Scholarship (PGS), 2020
 * Provincial Outstanding Graduates, 2020
-* National Scholarship, (2017, 2018, 2019)
+* Chinese National Scholarship, (2017, 2018, 2019)
 * Mayor's Scholarship, 2019
 * Meritorious Winner in American Mathematical Contest in Modeling, 2019
 * First-class scholarship of NEU, (2017, 2018, 2019, 2020)
@@ -38,11 +36,11 @@ Honors and Awards
 Publications
 ======
 * **Cluster Kernel Reinforcement Learning-based Kalman Filter for Three-Lever Discrimination Task in Brain-Machine Interface.** 
-<u>Zhiwei Song</u>, Xiang Zhang, Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022: 690-693.
-* **Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter.** Mingdong Li, Shuhang Chen, Xi Liu, <u>Zhiwei Song</u> and Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022: 768-771.
-* **Estimating Reward Function from Medial Prefrontal Cortex Cortical Activity using Inverse Reinforcement Learning.** Jieyuan Tan, Xiang Shen, Xiang Zhang, <u>Zhiwei Song</u> and Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022: 3346-3349.
-* **Reinforcement Learning-based Kalman Filter for Adaptive Brain Control in Brain-Machine Interface.** Xiang Zhang, <u>Zhiwei Song</u>, Yiwen Wang*, 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021
-* **Characterization of the influence of fiber diameter and sensing area length upon lossy mode resonance (LMR) fiber sensors,** <u>Zhiwei Song</u>, Qi Wang, Xuezhou Wang. Instrumentation Science & Technology. DOI:10.1080/10739149.2019.1636064.
+<u>Zhiwei Song</u>, Xiang Zhang, Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022: 690-693.[[PDF]](https://github.com/zsongah/zsongah.github.io/blob/master/files/Cluster_Kernel_Reinforcement_Learning-based_Kalman_Filter_for_Three-Lever_Discrimination_Task_in_Brain-Machine_Interface.pdf)
+* **Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter.** Mingdong Li, Shuhang Chen, Xi Liu, <u>Zhiwei Song</u> and Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022: 768-771.[[PDF]]()
+* **Estimating Reward Function from Medial Prefrontal Cortex Cortical Activity using Inverse Reinforcement Learning.** Jieyuan Tan, Xiang Shen, Xiang Zhang, <u>Zhiwei Song</u> and Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022: 3346-3349.[[PDF]]()
+* **Reinforcement Learning-based Kalman Filter for Adaptive Brain Control in Brain-Machine Interface.** Xiang Zhang, <u>Zhiwei Song</u>, Yiwen Wang*, 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021.[[PDF]]()
+* **Characterization of the influence of fiber diameter and sensing area length upon lossy mode resonance (LMR) fiber sensors,** <u>Zhiwei Song</u>, Qi Wang, Xuezhou Wang. Instrumentation Science & Technology. DOI:10.1080/10739149.2019.1636064.[[PDF]]()
 
 Academic Activities
 ======
