@@ -22,13 +22,20 @@ Education
 
 Award
 ======
-* Hong Kong PhD Fellowship (HKPFS), 2022
-* HKUST redbird scholarship, 2022
+* [Hong Kong PhD Fellowship]((https://cerg1.ugc.edu.hk/hkpfs/index.html)) (HKPFS), 2022
+* [HKUST redbird scholarship](https://news.hkust.edu.hk/news/hkust-redbird-phd-scholarship-program), 2022
 * 3rd prize in the IEEE-EMB Hong Kong & Macau Joint Chapter Student Project Competition, 2021
 * Provincial Outstanding Graduates, 2020
 * National Scholarship, (2017, 2018, 2019)
 * Mayor's Scholarship, 2019
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Publication
+======
+
+
+Teaching
+======
+Hobbies
+======
+Contacks
+======
