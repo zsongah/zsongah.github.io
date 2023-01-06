@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SONG, Zhiwei"
+title                    : "Zhiwei SONG"
 title_separator          : "-"
-name                     : &name "SONG, Zhiwei"
+name                     : &name "Zhiwei SONG"
 description              : &description "personal description"
 url                      : https://zsongah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "SONG, Zhiwei"
+  name             : "Zhiwei SONG"
   avatar           : "graduation.png"
-  bio              : "PhD Student"
+  bio              : "Ph.D. Student of Electronic Computer & Engineering at HKUST"
   location         : "Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
