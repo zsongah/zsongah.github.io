@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "SONG, Zhiwei"
-  avatar           : "graduation.jpg"
+  avatar           : "graduation.png"
   bio              : "hello it's me"
-  location         : "hk"
+  location         : "Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
