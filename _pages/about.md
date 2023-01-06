@@ -43,9 +43,11 @@ Publications
 * **Estimating Reward Function from Medial Prefrontal Cortex Cortical Activity using Inverse Reinforcement Learning.** Jieyuan Tan, Xiang Shen, Xiang Zhang, <u>Zhiwei Song</u> and Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022: 3346-3349.
 * **Reinforcement Learning-based Kalman Filter for Adaptive Brain Control in Brain-Machine Interface.** Xiang Zhang, <u>Zhiwei Song</u>, Yiwen Wang*, 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021
 * **Characterization of the influence of fiber diameter and sensing area length upon lossy mode resonance (LMR) fiber sensors,** <u>Zhiwei Song</u>, Qi Wang, Xuezhou Wang. Instrumentation Science & Technology. DOI:10.1080/10739149.2019.1636064.
+
 Academic Activities
 ======
 * **Utilizing Goal-Related Information from medial Prefrontal Cortex in Brain-Machine Interface**. BCI Society (Poster)
+
 Teaching Assistant (TA)
 ======
 * ELEC 3100: Signal Processing and  Communications, 2021 Spring
