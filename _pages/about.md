@@ -7,8 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Biography
+======
 
-I am currently a Ph.D. student at the department of Electronic Computer & Engineering (ECE), the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. [Yiwen Wang](https://bmi.hkust.edu.hk/people.html). Before that, I received my MPhil and B.S. degrees from HKUST and Northeastern University (NEU), respectively. My research interest is broadly on Brain-Machine Interface with a focus on reinforcement learning and neural decoding.
+I am currently a Ph.D. student at the Department of Electronic Computer & Engineering (ECE), the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. [Yiwen Wang](https://bmi.hkust.edu.hk/people.html). Before that, I received my MPhil and B.S. degrees from HKUST and Northeastern University (Rank:1/292), respectively.
+
+My research interest is broadly on Brain-Machine Interface (BMI) with a focus on reinforcement learning and neural decoding.
 
 A data-driven personal website
 ======
