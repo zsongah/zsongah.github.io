@@ -1,5 +1,5 @@
 ---
 title: ""
-excerpt: "Short description<br/><img src='/images/500x300.png'>"
+excerpt: "My Mphil graduation ceremony<br/><img src='/images/1.jpg'>"
 #collection: portfolio
 ---
