@@ -45,7 +45,7 @@ Publications
 
 Academic Activities
 ======
-* Utilizing Goal-Related Information from medial Prefrontal Cortex in Brain-Machine Interface. 8th International BCI meeting, June 7-9, 2021, BCI Society (Poster)
+* Utilizing Goal-Related Information from medial Prefrontal Cortex in Brain-Machine Interface. *8th International BCI meeting*, June 7-9, 2021, BCI Society. (Poster)
 
 Teaching Assistant (TA)
 ======
