@@ -23,7 +23,7 @@ Education
 
 Honors and Awards
 ======
-* [Hong Kong PhD Fellowship]((https://cerg1.ugc.edu.hk/hkpfs/index.html)) (HKPFS), 2022
+* [Hong Kong PhD Fellowship Scheme]((https://cerg1.ugc.edu.hk/hkpfs/index.html)) (HKPFS), 2022
 * [HKUST Redbird Scholarship](https://news.hkust.edu.hk/news/hkust-redbird-phd-scholarship-program), 2022
 * Research Travel Grant (RTG), 2022
 * 3rd prize in the IEEE-EMB Hong Kong & Macau Joint Chapter Student Project Competition, 2021
