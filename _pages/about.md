@@ -36,6 +36,8 @@ Honors and Awards
 
 Publications
 ======
+* **A Novel KL Divergence Optimization Method for Aligning Neural Population Patterns during Task Learning.** 
+<u>Zhiwei Song</u>, Xiang Zhang, Yiwen Wang*, The 2023 IEEE Conference on Systems, Man, and Cybernetics (SMC).
 * **Cluster Kernel Reinforcement Learning-based Kalman Filter for Three-Lever Discrimination Task in Brain-Machine Interface.** 
 <u>Zhiwei Song</u>, Xiang Zhang, Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022: 690-693. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871669)
 * **Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter.** Mingdong Li, Shuhang Chen, Xi Liu, <u>Zhiwei Song</u> and Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022: 768-771. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871283)
@@ -49,6 +51,7 @@ Academic Activities
 
 Teaching Assistant (TA)
 ======
-* ELEC 3100: Signal Processing and  Communications, 2021 Spring
-* ELEC 4830: Statistical Signal Analysis and Applications in Neural Engineering, 2021 Fall
-
+* HKUST ELEC 3100: Signal Processing and  Communications, 2021 Spring
+* HKUST ELEC 4830: Statistical Signal Analysis and Applications in Neural Engineering, 2021 Fall
+* HKUST ELEC 4130: Machine Learning on Images, 2023 Spring
+* HKUST ELEC 3810: Data Science for Neural Engineering, 2023 Fall
