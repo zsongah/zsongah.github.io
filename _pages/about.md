@@ -7,7 +7,7 @@ redirect_from:
   - /about/cmd
   - /about.html
 ---
-Biography
+📝 Biography
 ======
 
 I am currently a Ph.D. student at the Department of Electronic Computer & Engineering (ECE), the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. [Yiwen Wang](https://bmi.hkust.edu.hk/people.html). Before that, I received my MPhil and B.S. degrees from HKUST and Northeastern University (Rank:1/292), respectively.
@@ -15,13 +15,13 @@ I am currently a Ph.D. student at the Department of Electronic Computer & Engine
 My research interest is broadly on Brain-Machine Interface (BMI) with a focus on reinforcement learning and neural decoding.
 
 
-:book: Education
+📖 Education
 ======
 * Ph.D in ECE, The Hong Kong University of Science and Technology, 2022 - Present
 * MPhil in ECE, The Hong Kong University of Science and Technology, 2020 - 2022
 * B.S. in Automation, Northeastern University, 2016 - 2020
 
-Honors and Awards
+🍻 Honors and Awards
 ======
 * IEEE Conference on Systems, Man, and Cybernetics (SMC) Student Grant, 2023
 * [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS), 2022-2026
@@ -35,7 +35,7 @@ Honors and Awards
 * Meritorious Winner in American Mathematical Contest in Modeling, 2019
 * First-class Scholarship of NEU, 2017-2020
 
-Publications
+📰 Publications
 ======
 * **A Novel KL Divergence Optimization Method for Aligning Neural Population Patterns during Task Learning.** 
 <u>Zhiwei Song</u>, Xiang Zhang, Yiwen Wang*, The 2023 IEEE Conference on Systems, Man, and Cybernetics (SMC).
@@ -46,13 +46,13 @@ Publications
 * **Reinforcement Learning-based Kalman Filter for Adaptive Brain Control in Brain-Machine Interface.** Xiang Zhang, <u>Zhiwei Song</u>, Yiwen Wang*, 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9629511)
 * **Characterization of the influence of fiber diameter and sensing area length upon lossy mode resonance (LMR) fiber sensors,** <u>Zhiwei Song</u>, Qi Wang, Xuezhou Wang. Instrumentation Science & Technology. DOI:10.1080/10739149.2019.1636064. [[PDF]](https://www.tandfonline.com/doi/abs/10.1080/10739149.2019.1636064)
 
-Academic Activities
+✈️: Academic Activities
 ======
 * The 4th International Workshop on Neural Engineering and Rehabilitation, August 6-8, 2023, Chengdu, China.
 * 首届脑-机接口大会，暨脑机接口产业联盟第一次全会，July 3-5, 2023, Tianjin, China.
 * The 8th International BCI meeting, June 7-9, 2021, BCI Society. Virtual. Poster title: Utilizing Goal-Related Information from medial Prefrontal Cortex in Brain-Machine Interface. 
 
-Teaching Assistant (TA)
+👽 Teaching Assistant (TA)
 ======
 * HKUST ELEC 3100: Signal Processing and  Communications, 2021 Spring
 * HKUST ELEC 4830: Statistical Signal Analysis and Applications in Neural Engineering, 2021 Fall
