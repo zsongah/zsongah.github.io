@@ -23,13 +23,13 @@ Education
 
 Honors and Awards
 ======
-* [Hong Kong PhD Fellowship Scheme]((https://cerg1.ugc.edu.hk/hkpfs/index.html)) (HKPFS), 2022
+* [Hong Kong PhD Fellowship Scheme]((https://cerg1.ugc.edu.hk/hkpfs/index.html)) (HKPFS), 2022-2026
 * [HKUST Redbird Scholarship](https://news.hkust.edu.hk/news/hkust-redbird-phd-scholarship-program), 2022
 * Research Travel Grant (RTG), 2022
 * 3rd prize in the IEEE-EMB Hong Kong & Macau Joint Chapter Student Project Competition, 2021
-* Postgraduate Scholarship (PGS), 2020
+* Postgraduate Scholarship (PGS), 2020-2022
 * Provincial Outstanding Graduates, 2020
-* Chinese National Scholarship, (2017, 2018, 2019)
+* Chinese National Scholarship, (2017-2019)
 * Mayor's Scholarship, 2019
 * Meritorious Winner in American Mathematical Contest in Modeling, 2019
 * First-class Scholarship of NEU, (2017, 2018, 2019, 2020)
