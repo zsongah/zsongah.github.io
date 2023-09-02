@@ -10,7 +10,7 @@ redirect_from:
 📝 Biography
 ======
 
-I am currently a Ph.D. student at the Department of Electronic Computer & Engineering (ECE), the Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/), under the supervision of Prof. [Yiwen Wang](https://bmi.hkust.edu.hk/people.html). Before that, I received my MPhil and B.S. degrees from HKUST and [Northeastern University](https://www.neu.edu.cn/) (Rank:1/292), respectively.
+  I am currently a Ph.D. student at the Department of Electronic Computer & Engineering (ECE), the Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/), under the supervision of Prof. [Yiwen Wang](https://bmi.hkust.edu.hk/people.html). Before that, I received my MPhil and B.S. degrees from HKUST and [Northeastern University](https://www.neu.edu.cn/) (Rank:1/292), respectively.
 
 My research interest is broadly on Brain-Machine Interface (BMI) with a focus on reinforcement learning and neural decoding.
 
@@ -62,4 +62,4 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 
 🎈 Life
 ======
-I'm a bit of a double personality. When it comes to studying and working, I'm as calm and collected as a monk in meditation. But when it's time to let loose and socialize, I'm the life of the party! Going to the gym is one of my favorite hobbies. Nothing makes me happier than seeing those biceps grow 💪 and abs pop.  My current goal? To gain weight to 65 kg and have a six-pack that can double as a washboard. Currently flying solo but up for meeting new people - come chat with me if you wanna make a friend.
+  I'm a bit of a double personality. When it comes to studying and working, I'm as calm and collected as a monk in meditation. But when it's time to let loose and socialize, I'm the life of the party! Going to the gym is one of my favorite hobbies. Nothing makes me happier than seeing those biceps grow and abs pop.  My current goal? To gain weight to 65 kg and have a six-pack that can double as a washboard. Currently flying solo but up for meeting new people - come chat with me if you wanna make a friend.
