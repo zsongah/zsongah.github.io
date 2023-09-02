@@ -62,4 +62,4 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 
 🎈 Life
 ======
-  I'm a bit of a double personality😂. When it comes to studying and working, I'm as calm and collected as a monk in meditation😶. But when it's time to let loose and socialize, I'm the life of the party😜! Going to the gym is one of my favorite hobbies. Nothing makes me happier than seeing those biceps grow 💪 and abs pop.  My current goal? To gain weight to 65 kg and have a six-pack that can double as a washboard. Currently flying solo but up for meeting new people - come chat with me if you wanna make a friend❤️.
+  I'm a bit of a double personality😂. When it comes to studying and working, I'm as calm and collected as a monk in meditation😶. But when it's time to let loose and socialize, I'm the life of the party😜! Going to the gym is one of my favorite hobbies. Nothing makes me happier than seeing those biceps grow 💪 and abs pop.  My current goal? To gain weight to 65 kg and have a six-pack that can double as a washboard. Currently single but up for meeting new people - come chat with me if you wanna make a friend❤️.
