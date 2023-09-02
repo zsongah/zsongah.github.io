@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhiwei SONG"
 title_separator          : "-"
-name                     : &name "Zhiwei SONG"
+name                     : &name "Zhiwei SONG (宋志伟)"
 description              : &description "personal description"
 url                      : https://zsongah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
