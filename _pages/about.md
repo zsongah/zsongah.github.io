@@ -50,7 +50,7 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 ======
 * The 4th International Workshop on Neural Engineering and Rehabilitation, August 6-8, 2023, Chengdu, China.
 * 首届脑-机接口大会，暨脑机接口产业联盟第一次全会，July 3-5, 2023, Tianjin, China.
-* The 8th International BCI meeting, June 7-9, 2021, BCI Society. Virtual.
+* The 8th International BCI meeting, June 7-9, 2021, BCI Society. Virtual.  
   **Poster title:** Utilizing Goal-Related Information from medial Prefrontal Cortex in Brain-Machine Interface. 
 
 👽 Teaching Assistant (TA)
