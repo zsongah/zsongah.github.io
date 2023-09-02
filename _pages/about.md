@@ -23,7 +23,7 @@ Education
 
 Honors and Awards
 ======
-* IEEE Conference on Systems, Man, and Cybernetics (SMC) student grant, 2023
+* IEEE Conference on Systems, Man, and Cybernetics (SMC) Student Grant, 2023
 * [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS), 2022-2026
 * [HKUST Redbird Scholarship](https://news.hkust.edu.hk/news/hkust-redbird-phd-scholarship-program), 2022
 * Research Travel Grant (RTG), 2022
