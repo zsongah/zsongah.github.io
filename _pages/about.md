@@ -15,7 +15,7 @@ I am currently a Ph.D. student at the Department of Electronic Computer & Engine
 My research interest is broadly on Brain-Machine Interface (BMI) with a focus on reinforcement learning and neural decoding.
 
 
-Education
+:book: Education
 ======
 * Ph.D in ECE, The Hong Kong University of Science and Technology, 2022 - Present
 * MPhil in ECE, The Hong Kong University of Science and Technology, 2020 - 2022
