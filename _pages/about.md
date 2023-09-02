@@ -23,6 +23,7 @@ Education
 
 Honors and Awards
 ======
+* IEEE Conference on Systems, Man, and Cybernetics (SMC) student grant, 2023
 * [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS), 2022-2026
 * [HKUST Redbird Scholarship](https://news.hkust.edu.hk/news/hkust-redbird-phd-scholarship-program), 2022
 * Research Travel Grant (RTG), 2022
@@ -47,7 +48,9 @@ Publications
 
 Academic Activities
 ======
-* Utilizing Goal-Related Information from medial Prefrontal Cortex in Brain-Machine Interface. *8th International BCI meeting*, June 7-9, 2021, BCI Society. (Poster)
+* The 4th International Workshop on Neural Engineering and Rehabilitation, August 6-8, 2023, Chengdu, China.
+* 首届脑-机接口大会，暨脑机接口产业联盟第一次全会，July 3-5, 2023, Tianjin, China.
+* 8th International BCI meeting, June 7-9, 2021, BCI Society. Virtual. Poster title: Utilizing Goal-Related Information from medial Prefrontal Cortex in Brain-Machine Interface. 
 
 Teaching Assistant (TA)
 ======
