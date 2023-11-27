@@ -24,7 +24,7 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 🍻 Honors and Awards
 ======
 * IEEE Conference on Systems, Man, and Cybernetics (SMC) Student Grant, 2023
-* [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS), 2022-2026
+* [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)  (HKPFS), 2022-2026
 * [HKUST Redbird Scholarship](https://news.hkust.edu.hk/news/hkust-redbird-phd-scholarship-program), 2022
 * HKUST Research Travel Grant (RTG), 2022
 * 3rd prize in the IEEE-EMB Hong Kong and Macau Joint Chapter Student Project Competition, 2021
