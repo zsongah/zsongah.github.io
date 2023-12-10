@@ -19,7 +19,7 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 ======
 * Ph.D. in ECE, The Hong Kong University of Science and Technology, 2022–Present
 * MPhil in ECE, The Hong Kong University of Science and Technology, 2020–2022.
-* B.S. in Automation, Northeastern University, 2016 - 2020
+* B.S. in Automation (Lang Shijun Elite Class), Northeastern University, 2016 - 2020
 
 🍻 Honors and Awards
 ======
