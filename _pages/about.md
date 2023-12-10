@@ -38,7 +38,7 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 📰 Publications
 ======
 * **Audio-induced Medial Prefrontal Cortical Dynamics Enhances Coadaptive Learning in Brain–Machine Interfaces.** 
-Jieyuan Tan, Xiang Zhang, Shenghui Wu, Zhiwei Song, Shuhang Chen, Yifan Huang, Yiwen Wang*, Journal of Neural Engineering. DOI:10.1088/1741-2552/ad017d. [[PDF]](https://iopscience.iop.org/article/10.1088/1741-2552/ad017d/pdf) 
+Jieyuan Tan, Xiang Zhang, Shenghui Wu, <u>Zhiwei Song</u>, Shuhang Chen, Yifan Huang, Yiwen Wang*, Journal of Neural Engineering. DOI:10.1088/1741-2552/ad017d. [[PDF]](https://iopscience.iop.org/article/10.1088/1741-2552/ad017d/pdf) 
 * **A Novel KL Divergence Optimization Method for Aligning Neural Population Patterns during Task Learning.** 
 <u>Zhiwei Song</u>, Xiang Zhang, Yiwen Wang*, The 2023 IEEE Conference on Systems, Man, and Cybernetics (SMC)
 * **Cluster Kernel Reinforcement Learning-based Kalman Filter for Three-Lever Discrimination Task in Brain-Machine Interface.** 
