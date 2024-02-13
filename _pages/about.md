@@ -40,7 +40,7 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 * **Audio-induced Medial Prefrontal Cortical Dynamics Enhances Coadaptive Learning in Brain–Machine Interfaces.** 
 Jieyuan Tan, Xiang Zhang, Shenghui Wu, <u>Zhiwei Song</u>, Shuhang Chen, Yifan Huang, Yiwen Wang*, Journal of Neural Engineering. DOI:10.1088/1741-2552/ad017d. [[PDF]](https://iopscience.iop.org/article/10.1088/1741-2552/ad017d/pdf) 
 * **A Novel KL Divergence Optimization Method for Aligning Neural Population Patterns during Task Learning.** 
-<u>Zhiwei Song</u>, Xiang Zhang, Yiwen Wang*, The 2023 IEEE Conference on Systems, Man, and Cybernetics (SMC)
+<u>Zhiwei Song</u>, Xiang Zhang, Yiwen Wang*, The 2023 IEEE Conference on Systems, Man, and Cybernetics (SMC)[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10394543)
 * **Cluster Kernel Reinforcement Learning-based Kalman Filter for Three-Lever Discrimination Task in Brain-Machine Interface.** 
 <u>Zhiwei Song</u>, Xiang Zhang, Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) IEEE, 2022: 690–693. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871669)
 * **Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter.** Mingdong Li, Shuhang Chen, Xi Liu, <u>Zhiwei Song</u>, and Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) IEEE, 2022: 768–771. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871283)
@@ -50,6 +50,7 @@ Jieyuan Tan, Xiang Zhang, Shenghui Wu, <u>Zhiwei Song</u>, Shuhang Chen, Yifan H
 
 ✈️: Academic Activities
 ======
+* The 2023 IEEE Conference on Systems, Man, and Cybernetics (SMC), October 1-4, 2023, Honolulu, Oahu, Hawaii, USA
 * The 4th International Workshop on Neural Engineering and Rehabilitation, August 6–8, 2023, Chengdu, China
 * 首届脑-机接口大会，暨脑机接口产业联盟第一次全会，July 3-5, 2023, Tianjin, China.
 * The 8th International BCI meeting, June 7-9, 2021, BCI Society, virtual
