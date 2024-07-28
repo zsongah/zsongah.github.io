@@ -27,7 +27,6 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 * IEEE Conference on Systems, Man, and Cybernetics (SMC) Student Grant, 2023
 * [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)  (HKPFS), 2022-2026
 * HKUST Redbird Scholarship, 2022-2023
-* HKUST Research Travel Grant (RTG), 2022
 * 3rd prize in the IEEE-EMB Hong Kong and Macau Joint Chapter Student Project Competition, 2021
 * HKUST Full Postgraduate Scholarship (PGS), 2020-2022
 * Provincial Outstanding Graduates, 2020
@@ -49,6 +48,7 @@ _**Zhiwei Song**_, Xiang Zhang, Yiwen Wang*, 2022 44th Annual International Conf
 
 ✈️: Academic Activities
 ======
+* The 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), July 15-19, 2024, Orlando, Florida, USA
 * The 2023 IEEE Conference on Systems, Man, and Cybernetics (SMC), October 1-4, 2023, Honolulu, Oahu, Hawaii, USA
 * The 4th International Workshop on Neural Engineering and Rehabilitation, August 6–8, 2023, Chengdu, China
 * 首届脑-机接口大会，暨脑机接口产业联盟第一次全会，July 3-5, 2023, Tianjin, China.
