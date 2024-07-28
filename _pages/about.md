@@ -23,9 +23,10 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 
 🍻 Honors and Awards
 ======
+* HKUST Redbird Scholarship, 2023-2024
 * IEEE Conference on Systems, Man, and Cybernetics (SMC) Student Grant, 2023
 * [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)  (HKPFS), 2022-2026
-* [HKUST Redbird Scholarship](https://news.hkust.edu.hk/news/hkust-redbird-phd-scholarship-program), 2022
+* HKUST Redbird Scholarship, 2022-2023
 * HKUST Research Travel Grant (RTG), 2022
 * 3rd prize in the IEEE-EMB Hong Kong and Macau Joint Chapter Student Project Competition, 2021
 * HKUST Full Postgraduate Scholarship (PGS), 2020-2022
@@ -37,16 +38,14 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 
 📰 Publications
 ======
-* **Audio-induced Medial Prefrontal Cortical Dynamics Enhances Coadaptive Learning in Brain–Machine Interfaces.** 
-Jieyuan Tan, Xiang Zhang, Shenghui Wu, _**Zhiwei Song**_, Shuhang Chen, Yifan Huang, Yiwen Wang*, Journal of Neural Engineering. DOI:10.1088/1741-2552/ad017d. [[PDF]](https://iopscience.iop.org/article/10.1088/1741-2552/ad017d/pdf) 
+* **Facilitating Knowledge Transfer: An Approach for Matching Neural Patterns between Motor Tasks.** 
+_**Zhiwei Song**_, Xiang Zhang, Jieyuan Tan, Mingyi Wang, Yiwen Wang*, 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) IEEE.
 * **A Novel KL Divergence Optimization Method for Aligning Neural Population Patterns during Task Learning.** 
 _**Zhiwei Song**_, Xiang Zhang, Yiwen Wang*, The 2023 IEEE Conference on Systems, Man, and Cybernetics (SMC). [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10394543)
 * **Cluster Kernel Reinforcement Learning-based Kalman Filter for Three-Lever Discrimination Task in Brain-Machine Interface.** 
 _**Zhiwei Song**_, Xiang Zhang, Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) IEEE, 2022: 690–693. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871669)
-* **Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter.** Mingdong Li, Shuhang Chen, Xi Liu, _**Zhiwei Song**_, and Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) IEEE, 2022: 768–771. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871283)
-* **Estimating Reward Function from Medial Prefrontal Cortex Cortical Activity using Inverse Reinforcement Learning.** Jieyuan Tan, Xiang Shen, Xiang Zhang, _**Zhiwei Song**_, and Yiwen Wang*, 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022: 3346–3349. [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9871194)
 * **Reinforcement Learning-based Kalman Filter for Adaptive Brain Control in Brain-Machine Interface.** Xiang Zhang, _**Zhiwei Song**_, Yiwen Wang*, 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021 [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9629511)
-* **Characterization of the influence of fiber diameter and sensing area length upon lossy mode resonance (LMR) fiber sensors,** _**Zhiwei Song**_, Qi Wang, Xuezhou Wang. Instrumentation Science & Technology. DOI:10.1080/10739149.2019.1636064. [[PDF]](https://www.tandfonline.com/doi/abs/10.1080/10739149.2019.1636064)
+
 
 ✈️: Academic Activities
 ======
