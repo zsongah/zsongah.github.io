@@ -23,10 +23,11 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 
 🍻 Honors and Awards
 ======
-* HKUST Redbird Scholarship, 2023-2024
+* ECE Best Teaching Assistant Award for the academic year 2023/24
+* HKUST Redbird Scholarship, 2023/2024
 * IEEE Conference on Systems, Man, and Cybernetics (SMC) Student Grant, 2023
 * [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)  (HKPFS), 2022-2026
-* HKUST Redbird Scholarship, 2022-2023
+* HKUST Redbird Scholarship, 2022/2023
 * 3rd prize in the IEEE-EMB Hong Kong and Macau Joint Chapter Student Project Competition, 2021
 * HKUST Full Postgraduate Scholarship (PGS), 2020-2022
 * Provincial Outstanding Graduates, 2020
@@ -62,6 +63,3 @@ Poster title: Utilizing Goal-Related Information from the Medial Prefrontal Cort
 * HKUST ELEC 4130: Machine Learning on Images, 2023 Spring
 * HKUST ELEC 3810: Data Science for Neural Engineering, 2023 Fall
 
-🎈 Life
-======
-I'm a bit of a double personality😂. When it comes to studying and working, I'm as calm and collected as a monk in meditation😶. But when it's time to let loose and socialize, I'm the life of the party😜! Going to the gym is one of my favorite hobbies. Nothing makes me happier than seeing those biceps grow and the abs pop.  My current goal? To gain weight to 65 kg and have a six-pack that can double as a washboard. I am an ENTJ guy looking forward to meeting new people. Come chat with me if you want to make a friend❤️.
