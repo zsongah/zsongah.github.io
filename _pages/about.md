@@ -29,11 +29,9 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 * [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)  (HKPFS), 2022-2026
 * HKUST Redbird Scholarship, 2022/2023
 * 3rd prize in the IEEE-EMB Hong Kong and Macau Joint Chapter Student Project Competition, 2021
-* HKUST Full Postgraduate Scholarship (PGS), 2020-2022
 * Provincial Outstanding Graduates, 2020
 * Chinese National Scholarship, 2017–2019
 * Mayor's Scholarship of Shenyang, 2019
-* Meritorious Winner in American Mathematical Contest in Modeling, 2019
 * First-class Scholarship of NEU, 2017-2020
 
 📰 Publications
