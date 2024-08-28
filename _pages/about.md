@@ -26,13 +26,13 @@ My research interest is broadly on Brain-Machine Interface (BMI) with a focus on
 * ECE Best Teaching Assistant Award for the academic year 2023/24
 * HKUST Redbird Scholarship, 2023/24
 * IEEE Conference on Systems, Man, and Cybernetics (SMC) Student Grant, 2023
-* [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)  (HKPFS), 2022-2026
-* HKUST Redbird Scholarship, 2022/2023
+* [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)  (HKPFS)
+* HKUST Redbird Scholarship, 2022/23
 * 3rd prize in the IEEE-EMB Hong Kong and Macau Joint Chapter Student Project Competition, 2021
 * Provincial Outstanding Graduates, 2020
-* Chinese National Scholarship, 2017–2019
+* Chinese National Scholarship, 2016/17, 2017/18, 2018/19
 * Mayor's Scholarship of Shenyang, 2019
-* First-class Scholarship of NEU, 2017-2020
+* First-class Scholarship of NEU, 2016/17, 2017/18, 2018/19, 2019/20
 
 📰 Publications
 ======
